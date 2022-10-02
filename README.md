@@ -1,6 +1,6 @@
 # WatermelonTheBest
 ## DAB_CODE
-main_code.ipynb : Time Matrix <br>
+locate_bus_code.ipynb : Time Matrix <br>
 init_vrp : 초기 경로 설정 <br>
 boundary : 바운더리 설정 <br>
 new_vrp : 노드 추가 시 신규 경로 설정 <br>
