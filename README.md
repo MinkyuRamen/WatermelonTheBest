@@ -1,5 +1,5 @@
 # WatermelonTheBest
-## DAB_CODE
+## 2022 DAB 경진대회
 locate_bus_code.ipynb : Time Matrix <br>
 init_vrp : 초기 경로 설정 <br>
 boundary : 바운더리 설정 <br>
